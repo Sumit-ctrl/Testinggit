@@ -1,1 +1,11 @@
-﻿{"properties":{"name":"Marketing","id":"52b5f3d0-4fed-4837-bd43-e51e552d9ea9","createdAt":"2023-01-11T07:17:08.850Z","updatedAt":"2023-01-11T07:17:08.850Z","ownerId":"564abbe3-6ecb-4c21-9c48-50fb1da2b4b2","clientId":"36418a58fde140e19cb9b294a700233b","idprovider_id":"mulesoft","isFederated":false,"parentOrganizationIds":["b86a53ba-b91f-46ca-ae0c-17cbc04310f7"],"subOrganizationIds":[],"tenantOrganizationIds":[],"mfaRequired":null,"isAutomaticAdminPromotionExempt":false,"orgType":"anypoint","gdotId":null,"domain":null,"isRoot":false,"isMaster":false,"properties":{}}}
+output application/java
+---
+{
+	"grant_type" : "password",
+	"client_id" : "3MVG9wt4IL4O5wvLRYxLuQdpTz1oXA9B1dYDqi1OyOhlSPAptD8vNo5tgk3OO1Yk7E9G1kjnAODTW4xr9ELEN",
+	"client_secret": "7F5333E32EC1DFBF82C3421CFB3C5564C688C2B6C8DB9EF080E5314DFB7D0F71",
+	"username": "shaheer.shaik@birlasoft.com",
+	"password": "Haishr@7860yb3pBtscoOd50ZBLgbrzYbJ"
+}
+
+birlasoft-b6-dev-ed.develop.my.salesforce.com/services/oauth2/token?grant_type=password&client_id=3MVG9wt4IL4O5wvLRYxLuQdpTz1oXA9B1dYDqi1OyOhlSPAptD8vNo5tgk3OO1Yk7E9G1kjnAODTW4xr9ELEN&client_secret=7F5333E32EC1DFBF82C3421CFB3C5564C688C2B6C8DB9EF080E5314DFB7D0F71&username=shaheer.shaik@birlasoft.com&password=Haishr@7860yb3pBtscoOd50ZBLgbrzYbJ
